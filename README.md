@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HannahLeaM
 - german sysadmin
 - interested in web applications, programming and all things linux
-- passion for automation and 
+- passion for automation and scripting
 - if you want to contact me just dm me here :)
 
 <!---
